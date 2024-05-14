@@ -12,3 +12,16 @@ Simple web application for use by the Berwick Community Garden
 
 ### Some useful dev URLs
 1. http://www.localhost:8000/admin
+
+
+### Useful file locations
+1. Django settings file
+   1. `community_garden/settings.py`
+2. Root URLs file
+   1. `community_garden/urls.py`
+3. Application URLS file
+   1. `app/urls.py`
+4. Models file
+   1. `app/models.py`
+5. Views file
+   1. `app/views.py`
